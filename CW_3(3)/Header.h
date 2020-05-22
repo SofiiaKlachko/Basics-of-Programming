@@ -10,6 +10,6 @@ struct Triangle {
         ac = z;
     }
     void method() {
-        cout<<(as*bc)/2;
+        cout<<(ac*bc)/2;
     }
 };
