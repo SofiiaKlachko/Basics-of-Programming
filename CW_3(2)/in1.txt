@@ -1,0 +1,5 @@
+english
+math
+programming
+algebra
+practise
